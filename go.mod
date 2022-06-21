@@ -1,6 +1,6 @@
-module github.com/devsmranjan/golang-fiber-basic-todo-app
+module github.com/bitdom8/golang-fiber-basic-todo-app
 
-go 1.15
+go 1.17
 
 require (
 	github.com/andybalholm/brotli v1.0.1 // indirect
